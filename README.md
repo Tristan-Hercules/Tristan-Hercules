@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**Tristan-Hercules/Tristan-Hercules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# README
-
 ## Introduction
 
 Hello! My name is tristan Hercules, and I am currently a student at the University of South Florida (USF). I am passionate about learning how money, markets, and businesses operate, and I enjoy developing skills that can help organizations make smart financial decisions.
